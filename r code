@@ -1,0 +1,3 @@
+#Allow R markdown to compile into PDF
+library(tinytex)
+options( tinytex.verbose = TRUE)
